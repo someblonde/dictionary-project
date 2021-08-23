@@ -1,3 +1,5 @@
-form {
-    margin-top: 8px;
+.Dictionary form {
+    margin-top: 15px;
+    display: block;
+    text-align: center;
 }
