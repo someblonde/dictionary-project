@@ -3,3 +3,20 @@
     display: block;
     text-align: center;
 }
+
+.Dictionary .Results{
+      margin-top: 25px;
+     display: block;
+    text-align: center;
+    
+    
+}
+
+.Dictionary h2 {
+    color:#d8779e;
+    margin-bottom: 30px;
+}
+
+.Dictionary h3 {
+    color:#8dd0c7;
+}
