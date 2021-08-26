@@ -1,8 +1,14 @@
+body{
+    background-color: #f1eff9
+}
+
 .App header {
    max-width: 20%;
    height: auto;
    margin-left: 520px;
 }
+
+
 .App-footer {
     color:#d8779e;
     text-align: center;

@@ -2,7 +2,10 @@
     margin-top: 15px;
     display: block;
     text-align: center;
+    
 }
+
+
 
 .Dictionary .Results{
       margin-top: 25px;
@@ -19,4 +22,9 @@
 
 .Dictionary h3 {
     color:#8dd0c7;
+}
+
+.Dictionary section {
+    background: white;
+    padding: 8px;
 }
