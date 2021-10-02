@@ -13,7 +13,8 @@ function App() {
         <Dictionary defaultKeyword="welcome" />
       </main>
       <footer className="App-footer">
-        <small>Coded by Laura E</small>
+        Coded by <a href="https://github.com/someblonde" target="_blank" rel="noopener noreferrer">Laura E</a> and open-sourced at  
+        <a href="https://github.com/someblonde/dictionary-project" target="_blank" rel="noopener noreferrer"> Github</a>
       </footer>
     </div>
     </div>

@@ -2,6 +2,8 @@
   margin-top: 15px;
   display: block;
   text-align: center;
+  margin-bottom: 5px;
+  
 }
 
 .Dictionary .Results {
@@ -11,25 +13,28 @@
 }
 
 .Dictionary h1 {
-  font-size: 25px;
-  color:#8dd0c7;
+  font-size: 28px;
+  color:#e87a7c;
   text-align: center;
  font-weight: bold;
 }
 
 .Dictionary h2 {
-  color: #e87a7c;
+  color: #a5b6ef;
   margin-bottom: 5px;
 }
 
 .Dictionary h3 {
-  color: #8dd0c7;
+  color: #a5b6ef;
+  font-weight: bold;
 }
 
 .Dictionary section {
+  font-size: 20px;
   padding: 8px;
   border-radius: 6px;
  margin: 20px 0;
+ 
 }
 
 .Dictionary input {
@@ -41,7 +46,12 @@
 }
 
 .Dictionary .hint {
-  font-size: 14px;
+  font-size: 16px;
   margin-top:5px;
   text-align: center;
+}
+
+.Dictionary li {
+  font-family:Delius Swash Caps;
+  font-size:18px;
 }
